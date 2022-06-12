@@ -5,7 +5,7 @@ This is Open-stack installation guide with pack-stack.
 #1. Cent-OS 7 setup 
 - Set Cent-OS7 minimal edition. 
 - Enlarge root directory "(/)" 
-  because OpenStack's Operation space is root. 
+  OpenStack's Operation space is here.  
 
 #2. pre-configure 
 - systemctl stop libvirtd 
